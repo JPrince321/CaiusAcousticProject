@@ -110,6 +110,6 @@ def review_and_average_rt60(input_csv, output_csv):
 
 # --- EXECUTION ---
 # Ensure these paths match where your extraction script is saving the data
-input_path =  "C:\\Users\\joshu\\Documents\\Cambridge\\4th Year Work\\Project\\Panel Measurements\\Aluminium batten\\alum_complete_data.csv" 
-output_path = "C:\\Users\\joshu\\Documents\\Cambridge\\4th Year Work\\Project\\Panel Measurements\\Aluminium batten\\alum_complete_cleaned_data.csv" 
+input_path =  "" 
+output_path = "" 
 review_and_average_rt60(input_path, output_path)
